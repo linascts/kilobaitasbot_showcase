@@ -1,0 +1,32 @@
+{
+    "Manufacturer1": [
+        "k/nb_manufacturer1",
+        "",
+        ""
+    ],
+    "Manufacturer2": [
+        "k/nb_manufacturer2",
+        "",
+        ""
+    ],
+    "Manufacturer3": [
+        "k/nb_manufacturer3",
+        "",
+        ""
+    ],
+    "Manufacturer4": [
+        "",
+        "",
+        "manufacturer4"
+    ],
+    "Manufacturer5": [
+        "",
+        "",
+        "manufacturer5"
+    ],
+    "Manufacturer6": [
+        "VGA",
+        "manufacturer6",
+        ""
+    ]
+}
